@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Cat_vs_dog classifier](https://github.com/abhiram4580/Cat_vs_Dog_Image_Classifier)
 
-- 🌱 I’m currently learning **Msexcel,Tableau**
+- 🌱 I’m currently learning **MSEXCEL,TABLEAU**
 
 - 📫 How to reach me **abhiramnaidu1054@gmail.com**
 
