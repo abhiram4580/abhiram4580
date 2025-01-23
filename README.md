@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhiram4580" alt="abhiram4580" /></a> </p>
 
-- 🔭 I’m currently working on [Cat_vs_dog classifier](https://github.com/abhiram4580/Cat_vs_Dog_Image_Classifier)
+- 🔭 I’m currently working on LLM'S.
 
-- 🌱 I’m currently learning **MSEXCEL**
+- 🌱 I’m currently learning **Large Language Models**
 
 - 📫 How to reach me **abhiramnaidu1054@gmail.com**
 
